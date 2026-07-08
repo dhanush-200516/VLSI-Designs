@@ -1,15 +1,3 @@
-
-## Author
-
-**Irukuvajula Dhanush**
-B.Tech ECE, Jain (Deemed-to-be University), Bengaluru
-
-## License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
-
-
 # 16-bit Pipelined Wallace Tree Multiplier
 
 A 5-stage pipelined RTL implementation of a 16×16 unsigned multiplier in Verilog HDL, using a Wallace Tree partial-product reduction network and a 32-bit Carry Lookahead Adder (CLA) for the final addition stage.
@@ -210,3 +198,12 @@ The design under test contains no simulation-only constructs — no `*` operator
 5. **Verification via scoreboard.** A FIFO-based scoreboard is the only correct way to check a pipelined datapath, since inputs and outputs are temporally decoupled.
 
 ---
+
+## Author
+
+**Irukuvajula Dhanush**
+B.Tech ECE, Jain (Deemed-to-be University), Bengaluru
+
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
