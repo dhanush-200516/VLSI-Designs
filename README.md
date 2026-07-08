@@ -1,13 +1,14 @@
 ## Author
 
 **Irukuvajula Dhanush**
-B.Tech ECE, Jain (Deemed-to-be University), Bengaluru
+irukuvajuladhanush@gmail.com
++91 7075762005
 
 ## License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
-
+Contanct te authour in case of Repositry to be pulled or if want to use the design files.
 
 
 
